@@ -53,3 +53,10 @@ Este sitio web es 100% estático (HTML5, Tailwind CSS y JavaScript vanilla) y es
    - **Folder**: `/ (root)`
 3. Guarda los cambios. Tu sitio estará disponible en minutos en:
    `https://sofiamejiamuro-g.github.io/gear-intro-to-agents/`
+
+---
+
+## 📖 Guía Terminal & Troubleshooting
+
+Para consultar el paso a paso completo de comandos de terminal, manejo de credenciales múltiples, permisos de tokens y soluciones a errores comunes de despliegue, consulta la [Guía de Despliegue y Troubleshooting](GUIA_DESPLIEGUE_Y_TROUBLESHOOTING.md).
+
