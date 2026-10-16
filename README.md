@@ -2,7 +2,7 @@
 
 Guía de estudio visual e interactiva para estudiantes sobre la evolución de la IA Generativa hacia la Era Agéntica, la anatomía de un agente inteligente, el patrón de razonamiento ReAct, la matriz de decisión arquitectural y el despliegue empresarial con Gemini Enterprise en Google Cloud.
 
-🌐 **Demo en GitHub Pages:** [https://sofiamejia-g.github.io/gear-intro-to-agents/](https://sofiamejia-g.github.io/gear-intro-to-agents/)
+🌐 **Demo en GitHub Pages:** [https://sofiamejiamuro-g.github.io/gear-intro-to-agents/](https://sofiamejiamuro-g.github.io/gear-intro-to-agents/)
 
 ---
 
@@ -52,4 +52,4 @@ Este sitio web es 100% estático (HTML5, Tailwind CSS y JavaScript vanilla) y es
    - **Branch**: `main`
    - **Folder**: `/ (root)`
 3. Guarda los cambios. Tu sitio estará disponible en minutos en:
-   `https://sofiamejia-g.github.io/gear-intro-to-agents/`
+   `https://sofiamejiamuro-g.github.io/gear-intro-to-agents/`
